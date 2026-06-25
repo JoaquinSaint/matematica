@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /teacher
+Disallow: /calendar
+Disallow: /learn
+Disallow: /test
